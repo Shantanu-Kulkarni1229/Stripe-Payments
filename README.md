@@ -97,7 +97,7 @@ I created **PayVerse** to understand how payment gateways work and to integrate 
 ## **📸 Project Screenshots**
 ![Homepage Image](homepage1.png)
 ![Homepage Image](homepage2.png)
-![Stripe Payment Gateway Image](payment gateway.png)
+![Stripe Payment Gateway Image](paymentgateway.png)
 
 ---
 
