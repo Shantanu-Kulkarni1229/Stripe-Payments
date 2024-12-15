@@ -8,7 +8,7 @@ import TanStackProvider from "@/components/providers/TanStackProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "Stripe Subscriptions",
+	title: "PayVerse",
 	description: "Learn how to integrate Stripe subscriptions with Next.js",
 };
 
